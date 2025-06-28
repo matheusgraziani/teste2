@@ -1,0 +1,16 @@
+*{
+    padding: 100px;
+    margin: 0;
+    box-sizing: 0;
+
+}
+
+footer{
+    content: center;
+    box-sizing: border-box;
+    background-color: aqua;
+    font-style: italic;
+    border: 0;
+    cursor: pointer;
+    border-radius: 5px;
+}
